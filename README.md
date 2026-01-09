@@ -1,2 +1,2 @@
-# Estudos-Obsidian-
-Materiais e aaaaaaaaanotações de estudo para concursos públicos.
+# Estudos
+Materiais e anotações de estudo para concursos públicos.
