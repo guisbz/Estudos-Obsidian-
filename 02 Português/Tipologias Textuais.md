@@ -14,3 +14,18 @@ Apresenta uma sucessão de acontecimentos. Presença de progressão temporal (O 
 
 ## Texto Expositivo/Informativo
 
+Apresenta dados e fatos sobre um tema. Pode apresentar opiniões de terceiros, sem manifestação subjetiva do autor. O objetivo é informar.
+
+## Texto Argumentativo
+
+Apresenta uma análise autoral sobre um tema (tese), com vistas a convencer o destinatário da pertinência da opinião.
+
+## Texto Injuntivo
+
+Objetiva orientar o leitor, instruir; ajudá-lo a fazer algo. Verbo no imperativo é comum em textos assim, mas não é regra.
+
+
+
+
+
+
