@@ -1,6 +1,6 @@
 ## Definição
 
-Classificação de um texto com base em sua intenção e seus aspectos formais e estruturais. Trata-se de entender qual o objetivo do Texto. Existem 5 tipologias Textuais: Texto Descritivo, Texto Narrativo, Texto Expositivo/Informativo, Texto Argumentativo e Texto Injuntivo. Existe também o Texto Dissertativo, que é o conjunto de um Texto Expositivo e Argumentativo.
+Classificação de um texto com base em sua <mark style="background: #FF5582A6;">intenção</mark> e seus <mark style="background: #FF5582A6;">aspectos formais e estruturais</mark>. Trata-se de entender qual o <mark style="background: #FF5582A6;">objetivo</mark> do texto. Existem 5 tipologias Textuais: Texto Descritivo, Texto Narrativo, Texto Expositivo/Informativo, Texto Argumentativo e Texto Injuntivo. Existe também o Texto Dissertativo, que é o conjunto de um Texto Expositivo e Argumentativo.
 
 Obs. Uma tipologia não excluí a outra! Por exemplo, posso encontrar um texto narrativo com trechos descritivos, mas também posso encontrar um texto narrativo sem traços de outras tipologias.
 
