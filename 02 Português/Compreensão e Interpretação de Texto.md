@@ -1,8 +1,33 @@
-## Objetivo
+Compreender e interpretar é ter a capacidade de entender o objetivo do texto, a mensagem transmitida, a tipologia textual utilizada, e diversos outros fatores.
 
-Destrinchar o texto e entender a tipologia textual utilizada, entender o objetivo do texto, a mensagem transmitida, e diversos outros fatores através do texto lido.
+Resulta na capacidade de responder várias perguntas corretamente referentes ao texto. Ex: Qual o valor semântico da oração X do texto lido ? Qual a classificação/tipo do texto ? Qual o objetivo primordial do texto ? Qual a mensagem principal transmitida? Quem é o personagem principal? etc.
 
-O objetivo também é ser capaz de responder várias perguntas corretamente referentes ao texto. Ex: Qual o valor semântico da oração X do texto lido ? Qual a classificação/tipo do texto ? Qual o objetivo primordial do texto ? etc.
+# Tipologias Textuais
+
+É a classificação de um texto com base em sua **intenção** e seus **aspectos formais e estruturais**. Trata-se de entender qual o **objetivo** do texto. Existem 5 tipologias Textuais: Texto Descritivo, Texto Narrativo, Texto Expositivo/Informativo, Texto Argumentativo e Texto Injuntivo. Existe também o Texto Dissertativo, que é o conjunto de um Texto Expositivo e Argumentativo.
+
+Obs. Uma tipologia não excluí a outra! Por exemplo, posso encontrar um texto narrativo com trechos descritivos, mas também posso encontrar um texto narrativo sem traços de outras tipologias.
+
+## Texto Descritivo
+
+Apresenta características de um ser (pessoa, animal, objeto, processo, sentimento). Possui Simultaneidade dos acontecimentos.
+
+## Texto Narrativo
+
+Apresenta uma sucessão de acontecimentos. Presença de progressão temporal (O tempo passa), personagens, espaço. Geralmente predomínio de verbos no pretérito.
+
+## Texto Expositivo/Informativo
+
+Apresenta dados e fatos sobre um tema. Pode apresentar opiniões de terceiros, sem manifestação subjetiva do autor. O objetivo é informar.
+
+## Texto Argumentativo
+
+Apresenta uma análise autoral sobre um tema (tese), com vistas a convencer o destinatário da pertinência da opinião.
+
+## Texto Injuntivo
+
+Objetiva orientar o leitor, instruir; ajudá-lo a fazer algo. Verbo no imperativo é comum em textos assim, mas não é regra.
+
 
 # Coerência do Texto
 
