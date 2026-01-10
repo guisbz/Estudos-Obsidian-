@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8f595a38bd35f6bf",
+        "id": "3eedde4643a48bb0",
         "type": "tabs",
         "children": [
           {
-            "id": "47258d64fb876e43",
+            "id": "2f3567b3eaf84949",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -208,10 +208,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47258d64fb876e43",
+  "active": "2f3567b3eaf84949",
   "lastOpenFiles": [
-    "02 Português/Tipologias Textuais.md",
     "02 Português/Compreensão e Interpretação de Texto.md",
+    "02 Português/Tipologias Textuais.md",
     "00 Programação de Estudos/Cronograma.md",
     "00 Programação de Estudos/Programação(A3).pdf",
     "00 Programação de Estudos/Programação(A4).pdf",
