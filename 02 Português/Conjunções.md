@@ -1,9 +1,9 @@
-## O que são conjunções?
-
-**Conjunções** são **palavras invariáveis** cuja função é **ligar termos, orações ou períodos**, estabelecendo uma **relação lógica e sintática explícita** entre eles.
+Conjunções são **palavras invariáveis** cuja função é **ligar termos, orações ou períodos**, estabelecendo uma **relação lógica e sintática explícita** entre eles.
 Elas **existem especificamente para conectar**.  
-Não exercem função sintática dentro da oração (não são sujeito, verbo, complemento etc.).  
-Seu papel é **relacional**.
+Não exercem função sintática dentro da oração (não são sujeito, verbo, complemento etc.). Seu papel é **relacional**.
+
+---
+
 ##  O que uma conjunção faz, na prática?
 
 Uma conjunção:
@@ -67,7 +67,7 @@ Compare:
 Aqui a ligação ocorre **por referência**, não por conjunção.
 
 
-# Detalhes importantes
+## Detalhes importantes
  
 - **Toda conjunção é um conector**.
 - **Nem todo conector é conjunção**.
@@ -78,7 +78,7 @@ Exemplo:
 
 Eles **organizam o texto**, mas **não pertencem à classe gramatical “conjunção”**.
 
-#  Resumo final
+##  Resumo final
 
 - **Conjunções** → classe gramatical
 - **Conectores** → função textual

@@ -2,6 +2,8 @@ Compreender e interpretar é ter a capacidade de entender o objetivo do texto, a
 
 Resulta na capacidade de responder várias perguntas corretamente referentes ao texto. Ex: Qual o valor semântico da oração X do texto lido ? Qual a classificação/tipo do texto ? Qual o objetivo primordial do texto ? Qual a mensagem principal transmitida? Quem é o personagem principal? etc.
 
+---
+
 # Tipologias Textuais
 
 É a classificação de um texto com base em sua **intenção** e seus **aspectos formais e estruturais**. Trata-se de entender qual o **objetivo** do texto. Existem 5 tipologias Textuais: Texto Descritivo, Texto Narrativo, Texto Expositivo/Informativo, Texto Argumentativo e Texto Injuntivo. Existe também o Texto Dissertativo, que é o conjunto de um Texto Expositivo e Argumentativo.
@@ -55,7 +57,7 @@ O "<mark style="background: #FF5582A6;">ele</mark>" aqui, serve como o <mark sty
 Os conectivos que ligam orações se dividem basicamente em **dois grandes grupos**:
 1. **Conectivos coordenativos**
 2. **Conectivos subordinativos**
-👉 Essa é a **classificação principal e “oficial”** adotada por livros didáticos, provas e concursos.
+Essa é a **classificação principal e “oficial”** adotada por livros didáticos, provas e concursos.
 Entretanto, além das conjunções, existem palavras, expressões e estratégias linguísticas que **promovem a ligação entre ideias e partes do texto**, garantindo sua continuidade e clareza. Esses recursos são denominados **elementos (ou mecanismos) de coesão textual**.
 ## Elementos de Coesão Textual (não conjuntivos)
 
