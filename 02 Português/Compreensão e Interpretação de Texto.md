@@ -49,3 +49,91 @@ Coesão textual é a **amarração linguística entre as partes de um texto** 
 Exemplo: "João telefonou. <mark style="background: #FF5582A6;">Ele</mark> não deixou recado."
 
 O "<mark style="background: #FF5582A6;">ele</mark>" aqui, serve como o <mark style="background: #FF5582A6;">fator de coesão</mark> que liga as partes do texto.
+
+# Emprego de Conectores
+
+Os conectivos que ligam orações se dividem basicamente em **dois grandes grupos**:
+1. **Conectivos coordenativos**
+2. **Conectivos subordinativos**
+👉 Essa é a **classificação principal e “oficial”** adotada por livros didáticos, provas e concursos.
+Entretanto, além das conjunções, existem palavras, expressões e estratégias linguísticas que **promovem a ligação entre ideias e partes do texto**, garantindo sua continuidade e clareza. Esses recursos são denominados **elementos (ou mecanismos) de coesão textual**.
+## Elementos de Coesão Textual (não conjuntivos)
+
+São recursos que **não funcionam como conjunções**, mas contribuem diretamente para a organização, fluidez e unidade do texto.
+
+- **Paralelismo sintático:**  
+    Consiste na repetição de estruturas gramaticais semelhantes em uma sequência de frases ou orações, criando ritmo, clareza e equilíbrio textual.
+    
+    - Exemplo: _“Ele gosta de ler, de escrever e de viajar.”_
+
+- **Elipse:**  
+    Ocorre quando um ou mais termos da frase são omitidos, mas facilmente identificáveis pelo contexto.
+    
+    - Exemplo: _“Eu gosto de maçã, e você, de banana?”_  
+        (omissão do verbo _gostar_ na segunda oração)
+
+- **Substituição lexical:**  
+    Consiste na troca de uma palavra por um sinônimo, expressão equivalente ou termo semanticamente relacionado, evitando repetições excessivas.
+    
+    - Exemplo: _“carro” → “veículo”_
+
+- **Recorrência de termos:**  
+    Refere-se à repetição intencional de palavras ou expressões ao longo do texto para reforçar a ideia central e manter o foco temático.
+
+- **Progressão temática:**  
+    Diz respeito à forma como os temas são introduzidos, retomados e desenvolvidos ao longo do texto, garantindo continuidade de sentido. Pode ocorrer de forma linear ou com mudanças controladas de tema, sem comprometer a coesão.
+
+## 2. Tipos de Coesão Textual
+
+- **Coesão Referencial:**  
+    Relaciona-se ao uso de pronomes, expressões nominais e outros recursos que retomam ou antecipam elementos do texto, evitando repetições desnecessárias.  
+    Inclui:
+    
+    - **Anáfora** (retomada de termos anteriores)
+	    -- Exemplo:  
+        _“Maria comprou um carro. **Ela** está muito feliz com ele.”_
+	    **Ela** refere-se a Maria.
+        
+    - **Catáfora** (antecipação de termos posteriores)
+	    --- Exemplo: 
+	    _"**Isso** me incomoda muito: a falta de atenção."_
+	    **Isso** refere-se a falta de atenção.
+    
+
+- **Coesão Sequencial:**  
+    Refere-se à organização lógica e progressiva das ideias no texto, por meio de **conectores discursivos** e marcas de ordenação textual.
+    
+    - Exemplos: _primeiramente, além disso, por outro lado, portanto, consequentemente, ou seja._
+        
+- **Coesão Lexical:**  
+    Envolve relações semânticas entre palavras, como sinonímia, antonímia, hiperonímia e hiponímia, formando uma rede de significados que conecta as partes do texto.
+
+Agora sim, podemos falar do emprego de conectivos
+
+## Conectores coordenativos — conceito principal
+
+Os **conectores coordenativos** ligam orações ou termos **independentes entre si**, isto é, cada parte mantém **sentido completo por si só**.
+
+Nenhuma oração depende gramaticalmente da outra.  
+As ideias estão no **mesmo nível sintático**.
+
+📌 Em termos simples:
+- Uma oração **não explica nem condiciona** a outra
+- Elas apenas se **relacionam logicamente**
+
+## Conectores subordinativos — conceito principal
+
+Os **conectores subordinativos** ligam uma oração **dependente** a uma oração principal.
+
+Uma oração **só faz sentido completo** em função da outra.  
+Existe **hierarquia sintática** entre elas.
+
+📌 Em termos simples:
+
+- Uma oração **explica, causa, condiciona, limita ou complementa** a outra
+- Há **dependência gramatical**
+
+![[ConectoresCoordenativos.png]]
+
+![[ConectoresSubordinativos.png]]
+
