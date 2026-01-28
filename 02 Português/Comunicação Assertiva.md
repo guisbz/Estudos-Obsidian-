@@ -197,3 +197,23 @@ Na **comunicação assertiva**, é comum o uso do **“eu”** para expressar id
 🎯 **Resumo para a Cesgranrio**:
 
 > O uso do **“eu”** favorece a comunicação assertiva porque torna a mensagem **direta, clara e respeitosa**, sem gerar confronto.
+
+
+## Dica para se sair bem na prova da Cesgranrio (CAIXA)
+
+Até o momento, não há registro de questões que cobrem diretamente o conceito de **comunicação assertiva** nas provas da CAIXA ou da banca Cesgranrio. No entanto, são cobradas com frequência as **características** que compõem a comunicação assertiva.
+
+Exemplos dessas características incluem: **clareza, impessoalidade, objetividade, linguagem simples e concisa**.
+
+**A comunicação assertiva pode ser entendida como a combinação desses elementos.**
+
+Na prática, **o foco da Cesgranrio está nos aspectos da redação oficial e dos textos oficiais que coincidem com as características da comunicação assertiva**.
+
+Portanto, **embora o termo “comunicação assertiva” não seja cobrado de forma explícita, o que efetivamente cai na prova são as características da redação oficial**, especialmente aquelas que se alinham a uma comunicação clara, objetiva e impessoal, e outras características da comunicação assertiva. Exemplos práticos:
+
+![[QuestaoImpessoalidade.png]]
+
+![[QuestaoClareza.png]]
+
+![[QuestaoDCOficial.png]]
+

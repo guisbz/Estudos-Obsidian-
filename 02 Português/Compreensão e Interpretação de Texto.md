@@ -132,7 +132,7 @@ Existe **hierarquia sintática** entre elas.
 
 📌 Em termos simples:
 
-- Uma oração **explica, causa, condiciona, limita ou complementa** a outra
+- Se uma oração **explica, causa, condiciona, limita ou complementa** a outra
 - Há **dependência gramatical**
 
 ![[ConectoresCoordenativos.png]]
