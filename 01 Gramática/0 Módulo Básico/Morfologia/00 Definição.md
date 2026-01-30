@@ -1,0 +1,1 @@
+Emprego das classes gramaticais dentro do contexto oracional.

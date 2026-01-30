@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🔡",
       "🛂",
       "👮‍♂️",
       "🏢",
-      "LiChartColumnIncreasing",
-      "🖥"
+      "LiChartColumnIncreasing"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,13 +35,14 @@
     "useInternalPlugins": false
   },
   "00 Programação de Estudos": "📅",
-  "01 Inglês": "📙",
   "02 Português": "📕",
   "03 Redação": "📑",
-  "04 Matemática Básica": "📘",
-  "05 Matemárica Financeira": "💸",
-  "06 Probabilidade e Estatística": "LiChartColumnIncreasing",
-  "07 Tecnologia da Informação": "🖥",
-  "08 Comportamentos Éticos e Compliance": "🛂",
-  "09 Conhecimentos e Comportamentos Digitais": "👮‍♂️"
+  "04 Inglês": "📙",
+  "05 Matemática Básica": "📘",
+  "06 Matemárica Financeira": "💸",
+  "07 Probabilidade e Estatística": "LiChartColumnIncreasing",
+  "08 Tecnologia da Informação": "🖥",
+  "09 Comportamentos Éticos e Compliance": "🛂",
+  "10 Conhecimentos e Comportamentos Digitais": "👮‍♂️",
+  "01 Gramática": "🔡"
 }

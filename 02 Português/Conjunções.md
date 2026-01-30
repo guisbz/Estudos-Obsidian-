@@ -86,3 +86,4 @@ Eles **organizam o texto**, mas **não pertencem à classe gramatical “conjun�
 
 👉 Conjunções = conectores gramaticais  
 👉 Elementos de coesão ≠ apenas conjunções
+📚
