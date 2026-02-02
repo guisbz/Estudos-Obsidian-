@@ -99,3 +99,209 @@ Aqui, **rápido** aparece precedido do artigo **“do”** (_de + o_), o que ind
 Trata-se de um caso de **substantivação do adjetivo**, em que _rápido_ passa a representar uma ideia abstrata (aquilo que é feito de forma rápida).
 
 A mudança de uma classe de palavra sem mudar sua forma, se chama **derivação imprópria.** "Rápido" é um adjetivo, mas em algumas frases que usamos, ele virou um substantivo ou advérbio, sem mudar sua forma, isso é uma **derivação imprópria**, pois **mudamos a classe gramatical, mas a forma continua a mesma**.
+
+
+# Dica sobre morfologia x sintaxe x semântica
+
+### **MORFOLOGIA**
+
+Analisa **a classe gramatical** da palavra  
+Responde à pergunta: **“O que essa palavra É?”**
+
+
+- Substantivo, adjetivo, verbo, advérbio, pronome etc.
+
+- **A classe pode mudar conforme o contexto**
+
+- O contexto é usado **para identificar a classe**, não a função
+
+
+Regra importante: **Artigo + palavra → substantivação**
+
+**Ex.:**
+- _o não_ → “não” = **substantivo**
+- _o nada_ → “nada” = **substantivo**
+
+---
+###  **SINTAXE**
+
+Analisa **a função da palavra na frase**  
+Responde à pergunta: **“Que papel essa palavra exerce?”**
+
+- Sujeito, objeto direto, predicativo, complemento nominal etc.
+- **Não muda a classe da palavra**
+- A mesma classe pode exercer várias funções
+
+**Ex.:**
+- _O não dele foi definitivo._
+    - “o não” → **sujeito** (sintaxe)
+    - “não” → **substantivo** (morfologia)
+
+---
+
+### 💡 **SEMÂNTICA**
+
+Analisa **o sentido** da palavra ou expressão  
+Responde à pergunta: **“O que isso significa?”**
+
+- Valor de negação, oposição, intensidade, tempo, modo etc.
+- Trabalha com **ideia**, **significado** e **efeito de sentido**
+
+**Ex.:**
+- _o não_ → ideia de **negação**
+- _o nada_ → ideia de **ausência / vazio**
+
+---
+### 🔑 **Resumo salva-prova**
+
+- **Morfologia** → classe gramatical
+
+- **Sintaxe** → função na frase
+
+- **Semântica** → sentido
+
+
+📌 **Contexto pode:**
+
+- alterar a **classe** (morfologia)
+
+- revelar a **função** (sintaxe)
+
+- esclarecer o **sentido** (semântica)
+
+### 🧠Frase-chave pra memorizar
+
+> **Classe é o que a palavra é; função é o que ela faz; sentido é o que ela significa.**
+
+
+Logo, ao analisar a questão 6 abaixo, percebemos que estamos falando sobre a classe gramatical levando em consideração o contexto. E tanto o "não" como o "nada" tornam-se substantivos no contexto mencionado! Pois classes gramaticais mudam dependendo do contexto analisado.
+
+
+![[MorfologiaQ1.png]]![[MorfologiaEX1.png]]
+
+
+# Resolução e Explicação de Questão Pegadinha
+
+![[MorfologiaQ2.png]]
+
+Pegadinha analisada e resposta certa (D):
+
+> **“Arrancou o celeste raio e o tirânico cetro.”**
+
+---
+
+## 1️⃣ Por que _celeste_ e _tirânico_ **não** são substantivos?
+
+Mesmo com artigo, **eles NÃO foram substantivados**.  
+E o motivo é simples e técnico:
+
+👉 **o artigo NÃO está determinando “celeste” nem “tirânico” diretamente**.
+
+Veja a estrutura real do sintagma nominal:
+
+- **o celeste raio**
+    
+- **o tirânico cetro**
+    
+
+O núcleo é:
+
+- **raio** (substantivo)
+    
+- **cetro** (substantivo)
+    
+
+👉 _celeste_ e _tirânico_ **apenas caracterizam esses núcleos**.
+
+---
+
+## 2️⃣ Regra que resolve 100% dessas dúvidas (guarde isso!)
+
+📌 **Só há substantivação quando o adjetivo vira o NÚCLEO do sintagma nominal.**
+
+Exemplo de substantivação REAL:
+
+- _o belo_
+    
+- _o justo_
+    
+- _o celeste_ (sozinho, sem substantivo depois)
+    
+
+Aqui, sim:
+
+- artigo + **adjetivo isolado**
+    
+- o adjetivo vira o núcleo
+    
+- logo, vira **substantivo**
+    
+
+---
+
+## 3️⃣ O que acontece na frase da questão?
+
+Vamos testar retirando o substantivo:
+
+❌ _Arrancou o celeste e o tirânico._  
+→ Frase **quebrada**, sem sentido claro
+
+Agora veja com o substantivo:  
+✔ _Arrancou o celeste **raio** e o tirânico **cetro**_
+
+Isso prova que:
+
+- _celeste_ depende de _raio_
+    
+- _tirânico_ depende de _cetro_
+    
+
+👉 Quem **depende de um substantivo para existir ali** não é substantivo — é **adjetivo**.
+
+---
+
+## 4️⃣ Então por que o artigo não substantivou?
+
+Porque o artigo **não está ligado diretamente ao adjetivo**, e sim ao **substantivo núcleo**.
+
+Estrutura correta:
+
+`[ o [ celeste raio ] ]   [ o [ tirânico cetro ] ]`
+
+E não:
+
+`[ o celeste ]   [ o tirânico ]`
+
+📌 O artigo “atravessa” o adjetivo e determina o substantivo.
+
+---
+
+## 5️⃣ Ligação com o enunciado da questão (FGV safada 😈)
+
+> “deslocar palavras da classe gramatical a que elas pertencem”
+
+Nas outras alternativas:
+
+- verbo → substantivo (_o cantar_)
+    
+- advérbio → substantivo
+    
+- adjetivo → substantivo  
+    👉 **derivação imprópria acontece**
+    
+
+Nesta (D):
+
+- **adjetivo continua adjetivo**
+    
+- **substantivo continua substantivo**  
+    ✔ **não há deslocamento de classe**
+    
+
+Por isso, **(D) é a correta**.
+
+---
+
+## 6️⃣ Frase-chave pra nunca mais errar isso
+
+> **Artigo só substantiva adjetivo quando ele é o núcleo do sintagma nominal.**
