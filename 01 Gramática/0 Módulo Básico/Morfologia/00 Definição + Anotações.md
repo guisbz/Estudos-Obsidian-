@@ -1,9 +1,48 @@
 Emprego das classes gramaticais dentro do contexto oracional.
 É importante entender as palavras em um nível fraseológico, ou seja, compreender, em uma relação sintagmática, a comunicação entre termos **regentes** e termos **regidos**. 
 
-**Observação:** a classificação das palavras depende da relação textual; portanto é muito difícil dizer que uma determinada palavra será sempre um substantivo ou um adjetivo. O que há de fato são particularidades textuais (de natureza mórfica e/ou sintática). Essas particularidades determinarão a classificação de um vocábulo dentro do contexto oracional. 
+**Observação:** a classificação das palavras depende da relação textual; portanto é muito difícil dizer que uma determinada palavra será sempre um substantivo ou um adjetivo. O que há de fato são particularidades textuais (de natureza mórfica e/ou sintática). Essas particularidades determinarão a classificação de um vocábulo dentro do contexto oracional. A natureza mórfica diz respeito a classe gramatical e o que a palavra é por si só. Já a natureza sintática é o papel que a palavra exerce na frase.
 
 **Há dez classes gramaticais:** substantivo, adjetivo, artigo, numeral, pronome, verbo, advérbio, preposição, conjunção, interjeição.
+
+# Termo regente × termo regido e preposição
+
+### Termo regente
+
+É o termo que **manda**, que **exige** algo. Exige complemento (com ou sem preposição).
+Ele **determina** se vai precisar de preposição ou não.
+Exemplos:
+- Gostar **de** algo
+- Precisar **de** ajuda
+- Obediente **a** regras
+_gostar_, _precisar_, _obediente_ = **termos regentes**
+### Termo regido
+
+É o termo que **obedece à exigência** do regente.  
+Normalmente vem **com preposição**, se o regente pedir.
+Exemplos:
+- Gosto **de chocolate**
+- Preciso **de ajuda**
+- Ele obedece **às regras**
+_chocolate_, _ajuda_, _regras_ = **termos regidos**
+
+ Esquema mental rápido:
+
+> 🔹 **Regente = manda**  
+> 🔹 **Regido = obedece**
+
+Ou:
+
+> **Alguém gosta DE alguma coisa**  
+> → _gostar_ manda  
+> → _alguma coisa_ obedece
+
+### Preposição 
+
+É a palavra que **liga dois termos**, criando uma **relação de sentido** entre eles. Ela **não tem sentido completo sozinha**, depende de outras palavras.
+Normalmente, essa relação é de: lugar, tempo, causa, finalidade, etc.
+
+⚠️ **Regência** e **preposição** provavelmente serão abordados com mais profundidade em **Sintaxe II**!
 
 # Tabela das três áreas
 
@@ -36,7 +75,7 @@ Vamos analisar a palavra **rápido** nos diferentes eixos de análise.
 ![[EixosMorfologia.png]]
 ### Eixo paradigmático (vertical)
 
-No Eixo vertical, a palavra **rápido**, é um **adjetivo**. Pois aqui olhamos a palavra sozinha, **sem olhar para o lado**, sem a influência do resto do texto, e rápido, por essência, é um adjetivo.
+No Eixo vertical, a palavra **rápido**, é um **adjetivo**. Pois aqui olhamos a palavra sozinha, **sem olhar para o lado**, sem a influência do resto do texto, e **rápido**, por essência, é um adjetivo.
 
 
 ### Eixo sintagmático (horizontal)
