@@ -97,3 +97,5 @@ _“O perfeccionismo é inimigo do **rápido**.”
 
 Aqui, **rápido** aparece precedido do artigo **“do”** (_de + o_), o que indica que ele foi transformado em um **substantivo**.  
 Trata-se de um caso de **substantivação do adjetivo**, em que _rápido_ passa a representar uma ideia abstrata (aquilo que é feito de forma rápida).
+
+A mudança de uma classe de palavra sem mudar sua forma, se chama **derivação imprópria.** "Rápido" é um adjetivo, mas em algumas frases que usamos, ele virou um substantivo ou advérbio, sem mudar sua forma, isso é uma **derivação imprópria**, pois **mudamos a classe gramatical, mas a forma continua a mesma**.

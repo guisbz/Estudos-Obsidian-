@@ -4,4 +4,19 @@ Os **jovens** criativos passam muitos **recados** ao lançar alguns **jogos** na
 
 Os **fatos** também enfraquecem o **discurso** tucano. 
 
-**Cuidado!** Uma importante ferramenta para identificar um substantivo é conhecer os determinantes que servem não para acrescentar um conteúdo semântico ao substantivo ou para modificar-lhe o sentido, mas para identificar sua referência por meio da situação espaço-temporal ou delimitar seu número. Por isso, são determinantes a classe dos artigos (definidos/indefinidos), dos pronomes possessivos, demonstrativos e indefinidos e dos numerais. Por conseguinte, esses determinantes se relacionam apenas com substantivos ou com termos que, no contexto oracional, estejam funcionando como substantivo. Observe o trecho abaixo.
+**Determinantes como ferramenta para identificar substantivos**
+
+Uma forma prática de identificar um substantivo é observar os **determinantes**. Os determinantes **não servem para dar qualidade ou característica** ao substantivo (função do adjetivo), mas para **identificar sua referência**, indicando **quantidade**, **localização no tempo ou no espaço**, ou **qual ser está sendo mencionado**.
+
+São determinantes os **artigos** (definidos e indefinidos), os **pronomes** (possessivos, demonstrativos e indefinidos) e os **numerais**.
+
+Esses determinantes **só se relacionam com substantivos** ou com palavras que, na frase, **estejam exercendo a função de substantivo**.
+
+**Se aceita determinante, é substantivo (ou funciona como).**  
+**Se dá qualidade ao substantivo, é adjetivo.**
+
+"**O discurso rápido** me agrada."
+
+**O** = Artigo -> Determinante.
+**Discurso** = Substantivo.
+**Rápido** = Adjetivo, qualifica discurso.
