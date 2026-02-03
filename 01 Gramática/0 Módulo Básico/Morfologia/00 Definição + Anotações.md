@@ -28,11 +28,11 @@ Os termos citados entram em **níveis diferentes de análise**, não criam novas
 - **Locução / + adjetivo / + substantivo ou + substantivado** = como ela **funciona ou se realiza no contexto**.
     
 
-|Classe original|Uso possível|
-|---|---|
-|Pronome|pronome substantivo / pronome adjetivo|
-|Numeral|numeral substantivo / numeral adjetivo|
-|Adjetivo|adjetivo / adjetivo substantivado|
+| Classe original | Uso possível                           |
+| --------------- | -------------------------------------- |
+| Pronome         | pronome substantivo / pronome adjetivo |
+| Numeral         | numeral substantivo / numeral adjetivo |
+| Adjetivo        | adjetivo / adjetivo substantivado      |
 
 **Conclusão:** não são classes gramaticais; são **formas de uso ou realização** das classes já existentes.
 
