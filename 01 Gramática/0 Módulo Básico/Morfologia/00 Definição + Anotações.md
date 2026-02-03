@@ -44,7 +44,7 @@ Normalmente, essa relação é de: lugar, tempo, causa, finalidade, etc.
 
 ⚠️ **Regência** e **preposição** provavelmente serão abordados com mais profundidade em **Sintaxe II**!
 
-# Tabela das três áreas
+# As Três Áreas das Classes de Palavras 
 
 ### 1 - Área dos nomes
 
@@ -305,3 +305,112 @@ Por isso, **(D) é a correta**.
 ## 6️⃣ Frase-chave pra nunca mais errar isso
 
 > **Artigo só substantiva adjetivo quando ele é o núcleo do sintagma nominal.**
+
+
+# Dica sobre identificação de adjetivos e advérbios
+
+### 🎵 Texto-base (Chico Buarque – _Mulheres de Atenas_)
+
+> "Quando eles voltam **sedentos** 
+> Querem arrancar **violentos** 
+> Carícias plenas
+> Obscenas"
+
+---
+
+## ⚠️ Alerta importante (pegadinha comum)
+
+É **muito comum** confundir **adjetivos** com **advérbios** quando o adjetivo aparece **depois de um verbo de ação**.
+
+Isso acontece porque:
+
+- o adjetivo parece estar ligado ao verbo;
+    
+- dá a impressão de indicar _modo_ da ação.
+    
+
+👉 **Mas nem toda palavra que vem depois do verbo é advérbio.**
+
+---
+
+## 🔍 Análise correta dos termos destacados
+
+### ✔️ _sedentos_
+
+- Classe gramatical: **adjetivo**
+    
+- Por quê?
+    
+    - Está no **plural**;
+        
+    - Concorda com **“eles”**;
+        
+    - Caracteriza o sujeito, não o verbo.
+        
+
+👉 _Eles_ voltam **sedentos**
+
+---
+
+### ✔️ _violentos_
+
+- Classe gramatical: **adjetivo**
+    
+- Por quê?
+    
+    - Está no **plural**;
+        
+    - Concorda com **“eles”**;
+        
+    - Indica uma característica dos agentes da ação.
+        
+
+👉 _Eles_ querem arrancar **violentos**
+
+---
+
+## 🧠 Regra de ouro para diferenciar
+
+### 🔹 Adjetivo
+
+- Pertence à **área dos nomes**;
+    
+- **Concorda** com o substantivo ou pronome;
+    
+- Pode variar em **gênero** e **número**.
+    
+
+### 🔹 Advérbio
+
+- Pertence à **área dos verbos**;
+    
+- Modifica verbo, adjetivo ou outro advérbio;
+    
+- É **invariável** (não muda de forma).
+    
+
+---
+
+## 🧪 Teste rápido de prova
+
+Pergunte:
+
+➡️ A palavra **varia** para concordar com alguém?
+
+- ✔️ Sim → **adjetivo**
+    
+- ❌ Não → **advérbio**
+    
+
+---
+
+## 📌 Conclusão
+
+Mesmo quando o adjetivo aparece **após um verbo de ação**, ele **não vira advérbio** se:
+
+- concorda com o sujeito;
+    
+- estiver flexionado.
+    
+
+👉 Em _"sedentos"_ e _"violentos"_, temos **adjetivos**, não advérbios, pois possuem variação de número e concordam com o substantivo (eles).
