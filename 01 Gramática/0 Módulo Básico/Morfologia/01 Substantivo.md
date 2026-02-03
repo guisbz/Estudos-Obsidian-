@@ -1,5 +1,27 @@
 É a classe de palavra variável que designa ou nomeia os seres em geral.
 
+**Área:**  **Área dos nomes**
+
+**Função principal:**
+
+- É o **núcleo (chefe)** dos termos nominais;
+    
+- Tudo gira em torno dele: artigos, adjetivos, numerais e pronomes concordam com o substantivo.
+    
+
+**A quem se refere / o que rege:**
+
+- Não se refere a outra palavra;
+    
+- **É o termo regente**, o centro da informação.
+    
+
+**Exemplo:**
+
+> A **mulher** forte chegou.
+
+___
+
 Os **jovens** criativos passam muitos **recados** ao lançar alguns **jogos** na **internet**. 
 
 Os **fatos** também enfraquecem o **discurso** tucano. 
@@ -20,3 +42,4 @@ Esses determinantes **só se relacionam com substantivos** ou com palavras que, 
 **O** = Artigo -> Determinante.
 **Discurso** = Substantivo.
 **Rápido** = Adjetivo, qualifica discurso.
+

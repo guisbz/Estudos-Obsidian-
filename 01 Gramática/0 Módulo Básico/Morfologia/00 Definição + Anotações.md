@@ -5,6 +5,37 @@ Emprego das classes gramaticais dentro do contexto oracional.
 
 **Há dez classes gramaticais:** substantivo, adjetivo, artigo, numeral, pronome, verbo, advérbio, preposição, conjunção, interjeição.
 
+Se "**Há dez classes gramaticais**", onde entra **locução adjetiva**, **pronome adjetivo**, **numeral adjetivo** e **locução adverbial** ? não são classes também ?
+
+Não. **Eles não são classes gramaticais.**
+
+As **classes gramaticais continuam sendo apenas dez**.  
+Os termos citados entram em **níveis diferentes de análise**, não criam novas classes:
+
+- **Locução adjetiva** → **duas ou mais palavras** com **valor de adjetivo**.
+    
+- **Locução adverbial** → **duas ou mais palavras** com **valor de advérbio**.
+    
+- **Pronome adjetivo** → **uso funcional** do **pronome** quando **acompanha o substantivo**.
+    
+- **Numeral adjetivo** → **uso funcional** do **numeral** quando **acompanha o substantivo**.
+    
+
+👉 Portanto:
+
+- **Classe** = o que a palavra é (pronome, numeral, advérbio etc.).
+    
+- **Locução / + adjetivo / + substantivo ou + substantivado** = como ela **funciona ou se realiza no contexto**.
+    
+
+|Classe original|Uso possível|
+|---|---|
+|Pronome|pronome substantivo / pronome adjetivo|
+|Numeral|numeral substantivo / numeral adjetivo|
+|Adjetivo|adjetivo / adjetivo substantivado|
+
+**Conclusão:** não são classes gramaticais; são **formas de uso ou realização** das classes já existentes.
+
 # Termo regente × termo regido e preposição
 
 ### Termo regente
@@ -414,3 +445,184 @@ Mesmo quando o adjetivo aparece **após um verbo de ação**, ele **não vira ad
     
 
 👉 Em _"sedentos"_ e _"violentos"_, temos **adjetivos**, não advérbios, pois possuem variação de número e concordam com o substantivo (eles).
+
+# Mais Exemplos...
+
+Observe: 
+
+O professor escreve **rápido**.
+
+O aluno escreve **muito** rápido.
+
+O aluno fez um texto **muito** coerente.
+
+O aluno tem **muito** tempo livre.
+
+## 1️⃣ **O professor escreve rápido.**
+
+### 🔹 rápido
+
+- **Classe gramatical:** **advérbio**
+    
+- **Por quê?**
+    
+    - Modifica o **verbo** “escreve”
+        
+    - Indica **modo**
+        
+    - É **invariável** (❌ _rápida_, _rápidos_ aqui não funcionam)
+        
+
+👉 Pergunta-chave:  
+**escreve como?** → rápido
+
+### 🔹 Regência (quem modifica):
+
+- **rápido → verbo “escreve”**
+    
+
+📌 Apesar de “rápido” ser **adjetivo por natureza**, **no contexto ele exerce função adverbial**.
+
+---
+
+## 2️⃣ **O aluno escreve muito rápido.**
+
+Aqui temos **dois advérbios em camadas** 👇
+
+### 🔹 rápido
+
+- **Classe:** advérbio
+    
+- **Função:** indica **modo** do verbo “escreve”
+    
+
+### 🔹 muito
+
+- **Classe:** **advérbio**
+    
+- **Função:** indica **intensidade**
+    
+- **A quem se refere?**
+    
+    - 👉 **ao advérbio “rápido”**, não ao verbo
+        
+
+👉 Perguntas:
+
+- escreve como? → rápido
+    
+- rápido em que grau? → **muito** rápido
+    
+
+### 🔹 Regência:
+
+- **rápido → verbo “escreve”**
+    
+- **muito → advérbio “rápido”**
+    
+
+📌 Advérbio pode modificar **outro advérbio**.
+
+---
+
+## 3️⃣ **O aluno fez um texto muito coerente.**
+
+Agora mudou tudo 👀
+
+### 🔹 coerente
+
+- **Classe:** **adjetivo**
+    
+- **Função:** caracteriza o substantivo “texto”
+    
+
+👉 _texto como?_ → coerente
+
+### 🔹 muito
+
+- **Classe:** **advérbio**
+    
+- **Função:** intensidade
+    
+- **A quem se refere?**
+    
+    - 👉 **ao adjetivo “coerente”**
+        
+
+👉 _coerente em que grau?_ → muito coerente
+
+### 🔹 Regência:
+
+- **coerente → substantivo “texto”**
+    
+- **muito → adjetivo “coerente”**
+    
+
+📌 Advérbio também pode modificar **adjetivo**.
+
+---
+
+## 4️⃣ **O aluno tem muito tempo livre.**
+
+Aqui está a **pegadinha clássica** ⚠️
+
+### 🔹 muito
+
+- **Classe:** **pronome indefinido adjetivo**
+    
+- **Por quê?**
+    
+    - Acompanha o substantivo “tempo”
+        
+    - Indica **quantidade imprecisa**
+        
+    - Não expressa qualidade, mas **noção indefinida de quantidade**
+        
+
+👉 _quanto tempo?_ → muito tempo
+
+### 🔹 tempo
+
+- **Classe:** substantivo
+    
+
+### 🔹 livre
+
+- **Classe:** adjetivo
+    
+- Caracteriza “tempo”
+    
+
+### 🔹 Regência:
+
+- **muito → substantivo “tempo”**
+    
+- **livre → substantivo “tempo”**
+    
+
+📌 Aqui **muito NÃO é advérbio**, porque:
+
+- não modifica verbo, adjetivo ou advérbio
+    
+- modifica **substantivo**
+    
+- pode variar: _muitos tempos_ (em outro contexto)
+    
+
+---
+
+## 🧠 Quadro-resumo final (pra revisão rápida)
+
+| Frase                | Palavra  | Classe                      | Refere-se a |
+| -------------------- | -------- | --------------------------- | ----------- |
+| escreve rápido       | rápido   | advérbio                    | verbo       |
+| escreve muito rápido | rápido   | advérbio                    | verbo       |
+| escreve muito rápido | muito    | advérbio                    | advérbio    |
+| texto muito coerente | coerente | adjetivo                    | substantivo |
+| texto muito coerente | muito    | advérbio                    | adjetivo    |
+| muito tempo livre    | muito    | pronome indefinido adjetivo | substantivo |
+
+## 🔑 Dica pra nunca errar:
+
+> **“muito” será advérbio se puder ser trocado por “intensamente / bastante” sem mudar a estrutura.**  
+> **Se quantifica um substantivo, é adjetivo.**
