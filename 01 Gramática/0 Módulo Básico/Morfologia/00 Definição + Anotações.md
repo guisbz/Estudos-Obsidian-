@@ -79,7 +79,7 @@ Normalmente, essa relação é de: lugar, tempo, causa, finalidade, etc.
 
 ### 1 - Área dos nomes
 
-**Substantivo (regente)**
+**Substantivo (regente)** --> No mesmo nível temos também---> **Pronome substantivo** e **Numeral Substantivo**, que são pronomes ou numerais que exercem função de substantivo, em outras palavras substituem o substantivo.
 
 Adjetivo (regido)
 Locução adjetiva (regido) 
