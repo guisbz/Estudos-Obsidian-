@@ -26,7 +26,7 @@ Os **jovens** criativos passam muitos **recados** ao lançar alguns **jogos** na
 
 Os **fatos** também enfraquecem o **discurso** tucano. 
 
-**Determinantes como ferramenta para identificar substantivos**
+# **Determinantes como ferramenta para identificar substantivos**
 
 Uma forma prática de identificar um substantivo é observar os **determinantes**. Os determinantes **não servem para dar qualidade ou característica** ao substantivo (função do adjetivo), mas para **identificar sua referência**, indicando **quantidade**, **localização no tempo ou no espaço**, ou **qual ser está sendo mencionado**.
 

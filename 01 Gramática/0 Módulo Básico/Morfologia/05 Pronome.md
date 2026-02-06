@@ -1,11 +1,10 @@
-**O que é:** Classe gramatical que **substitui** ou **acompanha** o substantivo.
+**O que é:** É uma palavra variável que **acompanha** ou **substitui** uma **expressão nominal**. Há, no contexto oracional, dois tipos de pronomes: **pronome substantivo** (substitui o substantivo) e **pronome adjetivo** (refere-se ao substantivo).
 
 **Área:**  **Área dos nomes**
 
 **Função principal:**
 
 - Retomar, indicar, apontar ou acompanhar o substantivo.
-    
 
 **A quem se refere:**
 
@@ -18,6 +17,33 @@
 
 > **Ela** chegou cedo.
 
+## O que é uma **expressão nominal**?
+
+Expressão nominal é toda estrutura linguística cujo núcleo é um substantivo, expresso ou implícito, podendo ser formada por uma única palavra ou por um grupo de palavras.
+
+Exemplos de expressões nominais:
+
+- **livro** → expressão nominal
+    
+- **o livro azul** → expressão nominal
+    
+- **os dois** (= _os dois alunos_) → expressão nominal
+    
+- **aquele** (= _aquele objeto_) → expressão nominal
+## O pronome pode substituir MAIS do que o substantivo isolado?
+
+✔️ **Sim.
+
+Exemplo:
+
+- **O aluno cansado da turma chegou cedo.**
+    
+- **Ele chegou cedo.**
+    
+
+👉 “ele” não substitui só “aluno”,  
+substitui **toda a expressão nominal**  
+👉 _o aluno cansado da turma_
 
 # PRONOMES — LISTA ESSENCIAL (PARA ESTUDO E PROVA)
 
