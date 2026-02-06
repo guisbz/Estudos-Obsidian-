@@ -1,4 +1,8 @@
-**O que é:** Classe gramatical que expressa **emoção**, **sentimento**, **reação** ou **chamado**.
+**O que é:** É uma expressão autônoma que, no nível fraseológico, não estabelece relação morfossintática. Ela exprime sentimentos ou sensações de alegria, dor, surpresa etc. 
+
+Observação: em regra, as interjeições vêm acompanhadas de ponto de exclamação (!). 
+
+Exemplos: Ah! Oh! Ai! Psiu! Silêncio!
 
 **Área:** 💬 **Área expressiva (fora da estrutura sintática)**
 

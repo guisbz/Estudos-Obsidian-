@@ -1,4 +1,8 @@
-**O que é:** Classe gramatical que **determina** ou **individualiza** o substantivo.
+**O que é:** ARTIGO é a classe de palavra variável que se antepõem a substantivos, ela pode determiná-lo ou indeterminá-lo. 
+
+Definidos: a, o, as, os. 
+
+Indefinidos: um, uma, uns, umas.
 
 **Área:**  **Área dos nomes**
 
@@ -17,3 +21,6 @@
 **Exemplo:**
 
 > **A** mulher | **Uma** mulher
+> 
+
+Fique ligado! O vocábulo “a” pode ser artigo, preposição, pronome oblíquo átono ou pronome demonstrativo.
