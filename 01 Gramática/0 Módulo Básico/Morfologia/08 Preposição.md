@@ -42,7 +42,7 @@ Se a palavra **liga dois termos** e está nessa lista → é preposição.
 
 ---
 
-### 🔹 Preposições acidentais (menos cobradas)
+### 🔹 Preposições acidentais 
 
 São palavras de outras classes que **funcionam como preposição** em certos contextos:
 
