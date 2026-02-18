@@ -1,0 +1,1 @@
+indica circunstância (tempo, modo, lugar, causa...). Ex.: “Estudo *à noite*.
