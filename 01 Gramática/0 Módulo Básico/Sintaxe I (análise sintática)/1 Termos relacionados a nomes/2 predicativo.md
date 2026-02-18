@@ -1,0 +1,1 @@
+adjetivo que se refere ao sujeito fora da construção do sujeito
