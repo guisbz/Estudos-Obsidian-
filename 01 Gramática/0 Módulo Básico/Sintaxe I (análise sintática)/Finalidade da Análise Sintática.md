@@ -35,7 +35,7 @@ Aposto
 
 **Objeto direto** → complemento do verbo sem preposição, responde “o quê?” ou “quem?”.
 Ex.: “Li *o livro*.”
-Dica: sofre a ação diretamente.
+Dica: sofre a ação diretamente. E o sujeito é "**Eu**", e não "**o livro**".
 
 **Objeto indireto** → complemento do verbo com preposição, responde “a quem?”, “de quê?”, “em quê?”.
 Ex.: “Preciso *de ajuda*.”
