@@ -128,17 +128,20 @@ Aqui “os alunos” é objeto direto, não sujeito, **o sujeito aqui está ocul
 **Verbo**: vi
 **Objeto direto**: os alunos
 
-⚠️ Erro comum (solecismo): confundir sujeito posposto com objeto direto.
+**Erro comum (solecismo):** confundir sujeito posposto com objeto direto.
 Se alguém disser “Chegou os alunos”, está tratando “os alunos” como objeto, mas na verdade é sujeito → o verbo deveria concordar: “Chegaram os alunos”.
 
-🔹 Núcleo do sujeito não pode ser preposicionado
-• 	Em regra, o núcleo do sujeito não vem com preposição.
+**Núcleo do sujeito não pode ser preposicionado**
+Em regra, o núcleo do sujeito não vem com preposição.
 Ex.: “De João não se fala.” → aqui “de João” não é sujeito, mas complemento.
-👉 Se houver preposição, provavelmente não é sujeito, mas outro termo da oração.
+Se houver preposição, provavelmente não é sujeito, mas outro termo da oração.
 
-🔹 Sujeito lógico ou semântico
-• 	É o sujeito que não aparece expresso na oração, mas pode ser identificado pelo contexto.
-• 	Exemplo do sermão de Padre Antônio Vieira:
-• 	“São companheiros dos ladrões, porque os dissimulam.”
-👉 Quem “dissimula”? Os príncipes (sujeito lógico), já mencionado antes.
-• 	Assim, o sujeito lógico é recuperado pelo sentido do texto, mesmo sem estar escrito na oração.
+**Sujeito lógico ou semântico**
+É o sujeito que não aparece expresso na oração, mas pode ser identificado pelo contexto.
+Exemplo do sermão de Padre Antônio Vieira:
+
+"Em qualquer parte do mundo se pode verificar o que Isaías diz dos príncipes de Jerusalém: os teus príncipes são companheiros dos ladrões. E por quê? São companheiros dos ladrões, porque os dissimulam; são companheiros dos ladrões, porque os consentem; são companheiros dos ladrões, porque lhes dão os postos e..."
+
+“São companheiros dos ladrões, porque os dissimulam.”
+Quem “dissimula”? Os príncipes (sujeito lógico), já mencionado antes.
+Assim, o sujeito lógico é recuperado pelo sentido do texto, mesmo sem estar escrito na oração.
