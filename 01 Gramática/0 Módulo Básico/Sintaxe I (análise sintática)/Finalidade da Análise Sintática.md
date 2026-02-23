@@ -3,6 +3,15 @@
 
 ![[Morfosintaxe.png]]
 
+**OBS: Quando temos 2 verbos juntos, quem manda na transitividade é u último!
+Ex: “Esses veículos, em princípio, poderiam atingir neutralidade total de carbono, caso pudessem ser recarregados a partir de fontes 100% limpas.”
+Esses veículos: Sujeito
+em princípio: locução adverbial -> adj. adverbial
+poderiam: V
+atingir: VTD
+neutralidade total de carbono: Obj Direto
+
+**
 ## Tabela
 **1 – Termos relacionados a verbos:** 
 Objeto direto 
